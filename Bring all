@@ -1,5 +1,5 @@
 
-local host = "hellofarzad125" -- change to ur user
+local host = "robloxiant5i2j6j4y" -- change to ur user
 
 repeat wait() until game:IsLoaded()
 -- < start of spraycan crasher > --
